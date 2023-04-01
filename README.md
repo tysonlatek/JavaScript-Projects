@@ -1,2 +1,2 @@
 # JavaScript-Projects
-Contains Javascript Projects
+Contains samples of work utilizing Javascript
